@@ -1,2 +1,5 @@
 # Excel-Project
-A portfolio of my personal Microsoft Excel projects. 
+Business Investment Analysis for a Made-Up Company (Personal Project) 
+
+Tool Used: 
+- Microsoft Excel
